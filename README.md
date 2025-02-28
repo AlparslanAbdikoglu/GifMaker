@@ -1,5 +1,5 @@
 # GifMaker
-My first Python file thx to DevED youtube tutorial (video is in my youtube channel) alparslan abdikoglu
+My first Python file 
 
 SO  
 with this program you can make a gif out of any video 
